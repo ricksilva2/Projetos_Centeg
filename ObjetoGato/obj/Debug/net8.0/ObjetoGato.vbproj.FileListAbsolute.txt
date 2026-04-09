@@ -1,0 +1,15 @@
+C:\Projetos_Centeg\ObjetoGato\obj\Debug\net8.0\ObjetoGato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos_Centeg\ObjetoGato\obj\Debug\net8.0\ObjetoGato.AssemblyInfoInputs.cache
+C:\Projetos_Centeg\ObjetoGato\obj\Debug\net8.0\ObjetoGato.AssemblyInfo.vb
+C:\Projetos_Centeg\ObjetoGato\obj\Debug\net8.0\ObjetoGato.vbproj.CoreCompileInputs.cache
+C:\Projetos_Centeg\ObjetoGato\obj\Debug\net8.0\ObjetoGato.sourcelink.json
+C:\Projetos_Centeg\ObjetoGato\bin\Debug\net8.0\ObjetoGato.exe
+C:\Projetos_Centeg\ObjetoGato\bin\Debug\net8.0\ObjetoGato.deps.json
+C:\Projetos_Centeg\ObjetoGato\bin\Debug\net8.0\ObjetoGato.runtimeconfig.json
+C:\Projetos_Centeg\ObjetoGato\bin\Debug\net8.0\ObjetoGato.dll
+C:\Projetos_Centeg\ObjetoGato\bin\Debug\net8.0\ObjetoGato.pdb
+C:\Projetos_Centeg\ObjetoGato\obj\Debug\net8.0\ObjetoGato.dll
+C:\Projetos_Centeg\ObjetoGato\obj\Debug\net8.0\refint\ObjetoGato.dll
+C:\Projetos_Centeg\ObjetoGato\obj\Debug\net8.0\ObjetoGato.pdb
+C:\Projetos_Centeg\ObjetoGato\obj\Debug\net8.0\ObjetoGato.genruntimeconfig.cache
+C:\Projetos_Centeg\ObjetoGato\obj\Debug\net8.0\ref\ObjetoGato.dll
